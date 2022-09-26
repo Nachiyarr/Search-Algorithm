@@ -121,6 +121,15 @@ else:
 
 ```
 ## Sample Input and Output
+Linear search method
+![ex8py1](https://user-images.githubusercontent.com/113497340/192191163-a6241976-c947-4ae2-abe2-8a27da57df37.png)
+
+Binary search (iterative method)
+![ex8py2](https://user-images.githubusercontent.com/113497340/192191292-f5c26455-fff0-4e75-ba49-61e35b7801af.png)
+
+Binary search (recursive method)
+![ex8py3](https://user-images.githubusercontent.com/113497340/192193297-63a524f1-63bc-4d86-8ea8-1c1d84bb1012.png)
+
 
 
 
